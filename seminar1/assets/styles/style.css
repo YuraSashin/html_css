@@ -1,0 +1,16 @@
+.h1{
+    color: chartreuse;
+}
+.title{
+    font-size: 45px;
+    line-height: normal;
+}
+.description{
+    color: brown;
+    font-size: 20px;
+    font-style: italic;
+}
+.for_pic{
+    width: 200px;
+    height: 250px;
+}
