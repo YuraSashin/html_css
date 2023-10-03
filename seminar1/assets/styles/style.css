@@ -1,16 +1,73 @@
+/* задание 9 семинар 4 */
 .h1{
-    color: chartreuse;
+    color: #222222;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: bold;
+}
+/* задание 12-13 семинар4 */
+h2{
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
 }
 .title{
     font-size: 45px;
     line-height: normal;
 }
-.description{
+/* .description{
     color: brown;
     font-size: 20px;
     font-style: italic;
-}
+} */
 .for_pic{
     width: 200px;
     height: 250px;
 }
+/* .desc{
+    color: cornflowerblue;
+    font-size: 16px;
+    line-height: 20px;
+} */
+.box{
+    margin-top: 40px;
+    border: 2px solid yellow;
+}
+.bot{
+    width: 200px;
+    height: 30px;
+    outline: none;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    font-size: 14px;
+    line-height: 30px;
+}
+.bottom{
+    width: fit-content;
+    height: 30px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: gold;
+}
+/* задание 7 семинар4 */
+.links{
+    color: cornflowerblue;
+    font-size: 16px;
+    line-height: 20px;
+}
+/* задание 10-11 семинар4 */
+.p{
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7D7987;
+}
+/* задание 4 семинар4 */
+a{
+    text-decoration: none;
+}
+    
